@@ -1,5 +1,6 @@
 # Using Determined + Argo for End to End Workflows
-<img src="https://github.com/determined-ai/determined/raw/master/determined-logo.png" align=center width=40%>
+<p align="center">
+<img src="https://github.com/determined-ai/determined/raw/master/determined-logo.png"></p>
 
 
 This repository contains an example [Argo Workflow](https://github.com/argoproj/argo) that trains a model [using Determined](https://github.com/determined-ai/determined) and then deploys that model [using Seldon Core](https://github.com/SeldonIO/seldon-core).  Argo Workflows are an excellent tool for creating repeatable, scalable workflows in Kubernetes.
